@@ -20,7 +20,8 @@
   "license": "MIT",
   "devDependencies": {
     "coveralls": "^2.11.6",
-    "istanbul": "^0.4.2"
+    "istanbul": "^0.4.2",
+    "istanbul-coveralls": "^1.0.3"
   },
   "repository": {
     "type": "git",
