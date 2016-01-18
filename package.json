@@ -1,0 +1,25 @@
+{
+  "name": "is-tagged",
+  "version": "1.0.0",
+  "description": "Check whether a function call is initiated by a tagged template string or invoked in a regular way",
+  "main": "is-tagged.js",
+  "scripts": {
+    "test": "node node_modules/.bin/istanbul cover test.js"
+  },
+  "keywords": [
+    "tag",
+    "tagged",
+    "template",
+    "string",
+    "invoke",
+    "call",
+    "arguments",
+    "check"
+  ],
+  "author": "Schwarzkopf Balazs <schwarzkopfb@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "coveralls": "^2.11.6",
+    "istanbul": "^0.4.2"
+  }
+}
