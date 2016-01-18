@@ -21,5 +21,13 @@
   "devDependencies": {
     "coveralls": "^2.11.6",
     "istanbul": "^0.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwarzkopfb/is-tagged.git"
+  },
+  "bugs": {
+    "url": "https://github.com/schwarzkopfb/is-tagged/issues"
+  },
+  "homepage": "https://github.com/schwarzkopfb/is-tagged#readme"
 }
