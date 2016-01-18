@@ -1,6 +1,6 @@
 {
   "name": "is-tagged",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a function call is initiated by a tagged template string or invoked in a regular way",
   "main": "is-tagged.js",
   "scripts": {
